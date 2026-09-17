@@ -1,0 +1,8 @@
+#object files
+Build/
+#static lib files
+libs/
+#Cygnus project settings files and hidden files
+.vscode
+plutoide.ini
+#!.gitignore
